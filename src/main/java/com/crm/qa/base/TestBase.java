@@ -17,7 +17,7 @@ public class TestBase {
 	public static WebDriver driver;
 	public static Properties prop;
 	
-	// constructor
+	// constructors
 	public TestBase(){
 		
 		// read properties file
